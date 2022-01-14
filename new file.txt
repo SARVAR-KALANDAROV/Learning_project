@@ -1,1 +1,2 @@
 new file
+bu joyda githubda turib o'zgartirilgan qismni git pull buyrug'i uchum maxsus yozildi
