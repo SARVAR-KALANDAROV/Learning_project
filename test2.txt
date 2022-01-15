@@ -1,1 +1,2 @@
 git fetch ni sinash uchun
+yang satr qoshildi git efcthda tekshirib ko'ramiz
