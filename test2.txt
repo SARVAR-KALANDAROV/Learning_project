@@ -1,2 +1,2 @@
-git fetch ni sinash uchun
+git fetch ni sinash uchun gitda conflict uchun test2da 2-o'zgartirish origin sarvar
 yang satr qoshildi git efcthda tekshirib ko'ramiz
